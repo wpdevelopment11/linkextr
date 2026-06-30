@@ -1,5 +1,9 @@
 # Extract links from Markdown files
 
+<p align="center">
+    <img src="image.png" alt="diagram that shows how links are extracted" />
+</p>
+
 Extract links and optionally images from Markdown files. Output sorted list of unique links, one per line.
 
 Extracted links can be further processed by other programs.
